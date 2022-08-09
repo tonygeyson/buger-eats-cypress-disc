@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Tony Geyson",
+        "cpf": "54190865060",
+        "email": "tonygeyson@gmail.com",
+        "whatsapp": "85999999999",
+        "address": {
+            "postalcode": "60533350",
+            "street": "Rua 1123",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Conjunto Ceará I",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "x54190865060AA",
+        "email": "tonygeyson@teste.com",
+        "whatsapp": "85999999999",
+        "address": {
+            "postalcode": "60533350",
+            "street": "Rua 1123",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Conjunto Ceará I",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Tony Geyson",
+        "cpf": "54190865060",
+        "email": "tony.com.br",
+        "whatsapp": "85999999999",
+        "address": {
+            "postalcode": "60533350",
+            "street": "Rua 1123",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Conjunto Ceará I",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
